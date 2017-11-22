@@ -2,13 +2,13 @@
 ---
 # ORACLE Cloud Test Drive #
 
-## Introduction ##
+## Введение ##
 
-This Oracle Cloud project contains the lab materials for the Oracle Cloud Test Drive events organized in various locations.  Participants can experiment through these labs with a series of Oracle Cloud Services from the IaaS and PaaS family.  
+Этот проект Oracle Cloud содержит материалы для лабораторных работ Oracle Cloud Test Drive. Участники семинара могут экспериментировать с  рядом облачных сервисов Oracle от семейства IaaS и PaaS.  
 
 ![](common/images/Introslide.PNG)
 
-During this day you will be able to experience the various cloud services from Oracle hands-on.  Below you find the link to all labs already available : 
+В течение  дня вы сможете попробовать различные облачные сервисы от Oracle. Ниже вы найдете ссылку на все имеющиеся лабораторные работы : 
 
 
 ## Application Development ##
