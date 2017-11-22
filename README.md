@@ -4,54 +4,54 @@
 
 ## Введение ##
 
-Этот проект Oracle Cloud содержит материалы для лабораторных работ Oracle Cloud Test Drive. Участники семинара могут экспериментировать с  рядом облачных сервисов Oracle от семейства IaaS и PaaS.  
+Этот проект Oracle Cloud содержит материалы для лабораторных работ Oracle Cloud Test Drive. Участники практикума могут экспериментировать с  рядом облачных сервисов Oracle от семейства IaaS и PaaS.  
 
-![](common/images/Introslide.PNG)
+![](common/images/CloudTest.PNG)
 
-В течение  дня вы сможете попробовать различные облачные сервисы от Oracle. Ниже вы найдете ссылку на все имеющиеся лабораторные работы : 
+В течение  дня вы  сможете протестировать несколько сервисов Oracle Cloud, освоите интерфейс, узнаете, как настраивать средства интеграции, разрабатывать приложения, и все это в непринужденной и увлекательной обстановке.Специальных знаний не требуется.Ниже вы найдете ссылку на все имеющиеся лабораторные работы : 
 
 
-## Application Development ##
+## Разработка приложений ##
 + [AppDev Infrastructure lab](AppDev/AppDevInfra.md) - Set up the infrastructure to run your applications : create a Database and Application Servers, either using DBaaS or JCS, or use Docker Container to spin up any conainer from the Docker repository
 + [AppDev Development lab](AppDev/Develop.md) - Building applications with DevOps: using Developer Cloud Service to build a SpringBoot application and deploying to Application Container Cloud Service
 + [DevStar Lab](https://github.com/oracledevstar/microserviceworkshop/blob/master/instructions/clonecode.md) - Join a rebel squad, develop Microservices together and defeat the DevStar backend application
 + [Develop a MAX Application](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_max_short/tut_mcs_max_short_1a.html) - Develop a Mobile application using the Mobile Application Accelerator (MAX) utility from the Mobile Cloud Service
 
 
-## Container Native labs ##
-+ [CI/CD with Wercker : Build a Node.js-MongoDB container packaged application using Wercker pipelines](AppDev/container/wercker.md)
-+ [Run your first serverless Function using FnProject](AppDev/functions/readme.md)
+## Контейнеры - нативная среда для запуска облачных приложений ##
++ [CI/CD with Wercker : Build a Node.js-MongoDB контейнерное приложение с использованием  Werckers pipe ](AppDev/container/wercker.md)
++ [Запустите свою первую безсерверную функцию, используя FnProject](AppDev/functions/readme.md)
 
 
-## Infrastructure-as-a-Service ##
-This chapter regroups some of the steps from the various CTD labs to create a specific focus on IaaS services in particular.  In this lab, you will experience the folling services:
+## Инфраструктура как Сервис ##
+Перенесите любые рабочие нагрузки в облако для мгновенного повышения производительности с помощью сервисов Oracle Compute Cloud Service и Storage Cloud. В этом разделе приведены некоторые шаги из различных лабораторных работ по CI/CD, c ориентацией на IaaS сервисы, вы ознакомитесь с сервисами:
 + Compute CS
 + Container CS
 
-[Follow this link for the details](IaaS/readme.md)
+[Следуйте по этой ссылке для получения подробной информации.](IaaS/readme.md)
 
 
 ## Process Cloud Service ##
-In this lab, you will create a business process using PCS. This Order Approvals process will be initiated when a user enters an order.
-[Follow this link for the details](Process/readme.md)
+Расширьте возможности бизнес-процессов, охватывающих и облако, и локальную системую. В этой работе вы создадите бизнес-процесс с помощью PCS. Процесс утверждения заказа будет инициирован, когда пользователь введет заказ.
+[Следуйте по этой ссылке для получения подробной информации.](Process/readme.md)
 
 
-## Integration ##
+## Интеграция ##
 
 + [Integration Cloud Service](Integration/readme.md) - 
-This lab will show you how to set up integration between 2 systems simply using the drag & drop features of Integration Cloud Service.  In this exercise we will set up an integration between a RightNow instance and a generic REST service of a mobile Application.
+Интегрируйте приложения SaaS с локальной системой. Эта лабораторная работа покажет вам, как настроить интеграцию между двумя системами, просто используя функции drag & drop в Integration Cloud Service. В этом упражнении мы настроим интеграцию между экземпляром RightNow и  REST сервисом для мобильного приложения
 
 + [API Platform Cloud Service](Integration/APIPCS-Manager.md) - 
-The objective of this lab is to give you a comprehensive overview of the Oracle API Platform Cloud Service as an API Manager. 
+Управляйте всем жизненным циклом своих API-интерфейсов на уровне безопасности операторов связи. Цель этой лабораторной работы ознакомиться с Oracle API Platform Cloud Service как рибридным средством защиты программных интерфейсов - API Management. 
 
 
-## Prerequisites ##
+## Пререквизиты ##
 
-The workshop is intended to work with the Oracle Cloud account information handed out to you during the event.  You will need the following information to start working on these exercises :
+Во время практикума потркбуется учетные записи Oracle Cloud, они будут переданы вам во время мероприятия. Для начала работы над этими упражнениями вам понадобится следующая информацияs :
 
 + Oracle Cloud account **username** and **password**
 + Oracle Cloud **identity domain**
 + **Data center/region**
 
-Alternatively you can request an Oracle PaaS trial account. To get an account look into [here](common/request.for.trial.md).
+В качестве альтернативы вы можете запросить пробную учетную запись Oracle PaaS. Для получения учетной записи обратитесь [сюда](common/request.for.trial.md).
 
