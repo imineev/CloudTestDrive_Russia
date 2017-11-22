@@ -12,10 +12,10 @@
 
 
 ## Разработка приложений ##
-+ [AppDev Infrastructure lab](AppDev/AppDevInfra.md) - Set up the infrastructure to run your applications : create a Database and Application Servers, either using DBaaS or JCS, or use Docker Container to spin up any conainer from the Docker repository
-+ [AppDev Development lab](AppDev/Develop.md) - Building applications with DevOps: using Developer Cloud Service to build a SpringBoot application and deploying to Application Container Cloud Service
-+ [DevStar Lab](https://github.com/oracledevstar/microserviceworkshop/blob/master/instructions/clonecode.md) - Join a rebel squad, develop Microservices together and defeat the DevStar backend application
-+ [Develop a MAX Application](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_max_short/tut_mcs_max_short_1a.html) - Develop a Mobile application using the Mobile Application Accelerator (MAX) utility from the Mobile Cloud Service
++ [AppDev Infrastructure lab](AppDev/AppDevInfra.md) - Настройте инфраструктуру для запуска приложений: создайте серверы баз данных и приложений, используя DBaaS или JCS, или используйте Docker Container, чтобы развернуть любой контейнер из репозитория Docker
++ [AppDev Development lab](AppDev/Develop.md) - Создание приложений с помощью методологии DevOps: использование Developer Cloud Service для создания приложения Spring Boot и его развертывание в облачном сервисе Application Container
++ [DevStar Lab](https://github.com/oracledevstar/microserviceworkshop/blob/master/instructions/clonecode.md) - Присоединитесь к команде повстанцев, совместно создайте набор Микросервисов  и победите приложение DevStar
++ [Develop a MAX Application](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_max_short/tut_mcs_max_short_1a.html) - Разработайте мобильное приложение с помощью утилиты Mobile Application Accelerator (MAX) из Mobile Cloud Service
 
 
 ## Контейнеры - нативная среда для запуска облачных приложений ##
